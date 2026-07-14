@@ -12,9 +12,9 @@ I’m a software engineer focused on clean architecture, scalability, and perfor
 ## Tech stack
 
 - Frontend: HTML, CSS, JavaScript, TypeScript, React
-- Backend: Laravel, PHP, C#
-- Frameworks: ASP.NET Core, Livewire, Inertia.js
-- Database: PostgreSQL, SQL Server, MySQL, Redis
+- Backend: PHP, Node JS, C#
+- Frameworks: ASP.NET Core, Laravel, Livewire, Inertia.js
+- Database: PostgreSQL, SQL Server, MySQL, Redis, MongoDB 
 - DevOps: Docker, GitHub Actions, CI/CD
 - Testing: PHPUnit, Pest, Jest, xUnit, Playwright
 
