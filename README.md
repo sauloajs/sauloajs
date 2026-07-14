@@ -16,7 +16,7 @@ I’m a software engineer focused on clean architecture, scalability, and perfor
 - Frameworks: ASP.NET Core, Livewire, Inertia.js
 - Database: PostgreSQL, SQL Server, MySQL, Redis
 - DevOps: Docker, GitHub Actions, CI/CD
-- Testing: PHPUnit, Pest, xUnit, Playwright
+- Testing: PHPUnit, Pest, Jest, xUnit, Playwright
 
 ## What I care about
 
